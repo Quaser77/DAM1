@@ -20,6 +20,7 @@ public class EjerciciosJava {
         int b=4-8;
         c=a+b;
         System.out.println(c);
+        System.out.println("Probando, probando...");
         
         // TODO code application logic here
     }

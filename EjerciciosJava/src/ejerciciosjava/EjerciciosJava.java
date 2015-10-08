@@ -19,6 +19,7 @@ public class EjerciciosJava {
         int a=3+4;
         int b=4-8;
         c=a+b;
+        System.out.println(c);
         
         // TODO code application logic here
     }
